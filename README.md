@@ -14,4 +14,3 @@
 
 * ![image](https://github.com/user-attachments/assets/d76d63c1-446c-468f-9af6-19c92f26c9ba)
 
-<h1>That is it</h1>
